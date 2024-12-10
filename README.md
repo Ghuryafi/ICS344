@@ -14,6 +14,6 @@ This project provides hands-on experience in offensive security, cyber deception
 - [@Ridah-AlMoslem](https://github.com/Ridah-AlMoslem)
 
 ## Documents
-- [Report]()
-- [Presentation]()
+- [Report](https://drive.google.com/file/d/1Gbc0WrWhPC76knO9GUmCv3ViQAjbJnXt/view?usp=drive_link)
+- [Presentation](https://docs.google.com/presentation/d/1MbEyflD9OFnmfNx4OHEk_ZWyjrL1m7F0/edit?usp=drive_link&ouid=111073176630183850209&rtpof=true&sd=true)
 - [Demo]()
