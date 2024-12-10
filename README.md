@@ -5,7 +5,7 @@
 2. [Group Members](#group-members)
 3. [Documents](#documents)
 
-##Note
+## Note
 All setup steps are in the report [Documents](#documents)
 
 ## Description
