@@ -5,8 +5,11 @@
 2. [Group Members](#group-members)
 3. [Documents](#documents)
 
+##Note
+All setup steps are in the report [Documents](#documents)
+
 ## Description
-This project provides hands-on experience in offensive security, cyber deception using honeypots, security event correlation and analysis through Security Information and Event Management (SIEM), and optionally defensive strategy formulation. Use a SIEM platform to collect and visualize data from both the victim and honeypot environments. Set up an attacker-victim environment, compromise a specific service, and replicate the attacks against a honeypot that mimics the service. Then, use a SIEM platform to collect and visualize data from both the victim and honeypot environments.
+This project offers practical experience in offensive security, cyber deception with honeypots, and security event analysis using a Security Information and Event Management (SIEM) platform. Participants will create an attacker-victim setup, exploit a specific service, and repeat the attacks on a honeypot replicating the service. The SIEM platform will be used to collect and visualize data from both the victim environment and the honeypot, with an optional focus on developing defensive strategies.
 
 ## Group Members
 - [@Ali-Alghuyafi](https://github.com/Ghuryafi)
