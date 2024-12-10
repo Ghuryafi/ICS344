@@ -18,5 +18,5 @@ This project offers practical experience in offensive security, cyber deception 
 
 ## Documents
 - [Report](https://drive.google.com/file/d/1uR5t2GRBsP89aIb5SaYrK_U0FfGl-vTp/view?usp=drive_link)
-- [Presentation](https://docs.google.com/presentation/d/1MbEyflD9OFnmfNx4OHEk_ZWyjrL1m7F0/edit?usp=drive_link&ouid=100284989599307874124&rtpof=true&sd=true)
+- [Presentation](https://docs.google.com/presentation/d/12D3YZwZiw01OhjcOxzqOBB1OchOwcNvX/edit?usp=drive_link&ouid=111073176630183850209&rtpof=true&sd=true)
 - [Demo](https://drive.google.com/file/d/1c67ElTNMJF6tyZakb0sKoEXZ1FS2-WyB/view?usp=drive_link)
