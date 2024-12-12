@@ -3,7 +3,8 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Group Members](#group-members)
-3. [Documents](#documents)
+3. [Participation] (#Participation)
+4. [Documents](#documents)
 
 ## Note
 All setup steps are in the report [Documents](#documents)
@@ -15,6 +16,11 @@ This project offers practical experience in offensive security, cyber deception 
 - [@Ali-Alghuyafi](https://github.com/Ghuryafi)
 - [@Ahmed-Almakhlooq](https://github.com/Ahmed-T-A)
 - [@Ridah-AlMoslem](https://github.com/Ridah-AlMoslem)
+
+## Participation
+- Ali Alghuyafi (Phase 1)
+- Ridah AlMoslem (Phase 2)
+- Ahmed Al-Makhlooq (Phase 3)
 
 ## Documents
 - [Report](https://drive.google.com/file/d/1uR5t2GRBsP89aIb5SaYrK_U0FfGl-vTp/view?usp=drive_link)
