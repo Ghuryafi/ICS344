@@ -17,7 +17,7 @@ This project offers practical experience in offensive security, cyber deception 
 - Actual Service: FTP
 - Honeypot: Honeypots-FTP
 - SIEM Tool: Splunk
-Refer to the report for additional details.
+#Refer to the report for additional details.
 
 ## Group Members
 - [@Ali-Alghuyafi](https://github.com/Ghuryafi)
@@ -25,9 +25,9 @@ Refer to the report for additional details.
 - [@Ridah-AlMoslem](https://github.com/Ridah-AlMoslem)
 
 ## Participation
-- Ali Alghuyafi (Phase 1)
-- Ridah AlMoslem (Phase 2)
-- Ahmed Al-Makhlooq (Phase 3)
+- [@Ali-Alghuyafi](https://github.com/Ghuryafi) (Phase 1)
+- [@Ridah-AlMoslem](https://github.com/Ridah-AlMoslem) (Phase 2)
+- [@Ahmed-Almakhlooq](https://github.com/Ahmed-T-A) (Phase 3)
 
 ## Documents
 - [Report](https://drive.google.com/file/d/1uR5t2GRBsP89aIb5SaYrK_U0FfGl-vTp/view?usp=drive_link)
