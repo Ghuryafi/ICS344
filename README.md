@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Group Members](#group-members)
-3. [Participation] (#Participation)
+3. [Participation](#Participation)
 4. [Documents](#documents)
 
 ## Note
