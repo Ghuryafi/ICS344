@@ -2,15 +2,22 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Group Members](#group-members)
-3. [Participation](#Participation)
-4. [Documents](#documents)
+2. [Tools Used](#tools-used)
+3. [Group Members](#group-members)
+4. [Participation](#Participation)
+5. [Documents](#documents)
 
 ## Note
 All setup steps are in the report [Documents](#documents)
 
 ## Description
 This project offers practical experience in offensive security, cyber deception with honeypots, and security event analysis using a Security Information and Event Management (SIEM) platform. Participants will create an attacker-victim setup, exploit a specific service, and repeat the attacks on a honeypot replicating the service. The SIEM platform will be used to collect and visualize data from both the victim environment and the honeypot, with an optional focus on developing defensive strategies.
+
+## Tools Used
+- Actual Service: FTP
+- Honeypot: Honeypots-FTP
+- SIEM Tool: Splunk
+Refer to the report for additional details.
 
 ## Group Members
 - [@Ali-Alghuyafi](https://github.com/Ghuryafi)
