@@ -25,9 +25,9 @@ This project offers practical experience in offensive security, cyber deception 
 - [@Ridah-AlMoslem](https://github.com/Ridah-AlMoslem)
 
 ## Participation
-- [@Ali-Alghuyafi](https://github.com/Ghuryafi) (Phase 1)
-- [@Ridah-AlMoslem](https://github.com/Ridah-AlMoslem) (Phase 2)
-- [@Ahmed-Almakhlooq](https://github.com/Ahmed-T-A) (Phase 3)
+- [@Ali-Alghuyafi](https://github.com/Ghuryafi) (Phase 1, Phase 4)
+- [@Ridah-AlMoslem](https://github.com/Ridah-AlMoslem) (Phase 2, Phase 4)
+- [@Ahmed-Almakhlooq](https://github.com/Ahmed-T-A) (Phase 3, Phase 4)
 
 ## Documents
 - [Report](https://drive.google.com/file/d/1uR5t2GRBsP89aIb5SaYrK_U0FfGl-vTp/view?usp=drive_link)
